@@ -1,0 +1,6 @@
+An awesome public FP library.
+
+Links:
+
+ - [[https://redarqas.github.io/bunny-library/ Homepage]]
+ - [[https://github.com/redarqas/bunny-library GitHub repository]]
